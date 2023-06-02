@@ -54,29 +54,29 @@ Utilize o conceito de ***Abstração da POO*** para realizar o exercício.
 
 Nome dos participantes/questões feitas por eles:
 
-Daniela Teixeira Abreu - Exercício 1 e 4
+Daniela Teixeira Abreu - Exercício 
 RA: 4231923259
 
-Matheus Felipe Lopes da Silva  - Exercício 7
+Matheus Felipe Lopes da Silva  - Exercício 
 RA: 4231925981
 
-João Victor Carvalho Dimas de Oliveira  - Exercício 5
+João Victor Carvalho Dimas de Oliveira  - Exercício 
 RA: 4231921150
 
-Marcela Maria Barbosa Ribeiro Araújo - Exercício 6
+Marcela Maria Barbosa Ribeiro Araújo - Exercício 
 RA: 422222661
 
 Mateus Felipe Moura Silveira - Exercício
 RA: 4231921507
 
-Nátali Isaltino Gomes  - Exercício 8
+Nátali Isaltino Gomes  - Exercício 
 RA: 4231925815 
 
-Vinicius de Oliveira Santos  - Exercício 2
+Vinicius de Oliveira Santos  - Exercício 
 RA: 42115981
 
-Izabelle da Rocha Serafim - Exercício 3
+Izabelle da Rocha Serafim - Exercício 
 RA: 4231922330
 
-Felipe Claver Diniz - Exercício 9
+Felipe Claver Diniz - Exercício 
 RA: 4231920565
